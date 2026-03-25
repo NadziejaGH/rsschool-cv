@@ -1,1 +1,1 @@
-# rsschool-cv
+https://NadziejaGH.github.io/rsschool-cv/cv
