@@ -21,3 +21,13 @@ My goal is to become a full-stack developer and gain enough practical experience
 I am motivated, fast-learning, and ready to grow as part of a development team.
 
 ---
+#### Skills
+
+* HTML5, CSS3 (Preprocessor SCSS, BEM methodology)
+* JavaScript Basics
+* Git, GitHub
+* Figma(for web development)
+* VS Code, WebStorm
+* Vite, Minista
+
+---
