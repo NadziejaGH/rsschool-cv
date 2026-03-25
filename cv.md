@@ -77,3 +77,13 @@ function copyPassword() {
 } 
 ```
 ---
+#### Education
+* Rs-School. Statistics JS/FE Pre-School 2026 Q1 (in progress)
+
+---
+#### Languages:
+1. English  - Elementary
+2. Russian - Native
+3. Polish - Intermediate
+
+
