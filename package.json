@@ -1,0 +1,24 @@
+{
+  "name": "rsschool-cv",
+  "version": "1.0.0",
+  "description": "https://NadziejaGH.github.io/rsschool-cv/cv \r https://NadziejaGH.github.io/rsschool-cv/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:html": "linthtml \"**/*.html\" --config .linthtmlrc",
+    "lint:css": "stylelint \"styles/*.css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-nadzieja:NadziejaGH/rsschool-cv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@linthtml/linthtml": "^0.10.2",
+    "linthtml-config-htmlacademy": "^1.1.0",
+    "stylelint": "^16.26.1",
+    "stylelint-config-htmlacademy": "^4.4.0"
+  }
+}
