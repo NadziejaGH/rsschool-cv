@@ -8,8 +8,13 @@
   --font-family-base: "Poppins", sans-serif;
   --font-family-accent: "Lato", sans-serif;
 
-  --container-width: 100rem;
-  --container-padding-x: 2rem;
+  --font-size-text: 23px;
+  --font-size-h1: 82px;
+  --font-size-h2: 35px;
+  --font-size-accent: 28px;
+
+  --container-width: 1344px;
+  --container-padding-x: 48px;
 
   --transition-duration: 0.2s;
 }

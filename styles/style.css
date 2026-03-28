@@ -1,0 +1,29 @@
+body {
+  font-family: var(--font-family-base);
+font-weight: 400;
+  font-size: var(--font-size-text);
+  color: var(--color-gray);
+  background-color: var(--color-light);
+}
+
+h1,
+h2 {
+  font-family: var(--font-family-accent);
+  font-weight: 500;
+  color: var(--color-black);
+}
+
+h1 {
+  font-size: var(--font-size-h1);
+}
+
+h2 {
+  font-size: var(--font-size-h2);
+}
+
+.container {
+  max-width: var(--container-width);
+  padding-inline: var(--container-padding-x);
+  margin: 0 auto;
+}
+
